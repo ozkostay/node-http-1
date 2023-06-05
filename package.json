@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "axios": "^1.4.0",
+    "yargs": "^17.7.2"
+  },
+  "devDependencies": {
+    "dotenv": "^16.1.4"
+  },
+  "name": "http-1",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node -r dotenv/config index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ozkostay/node-http-1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ozkostay/node-http-1/issues"
+  },
+  "homepage": "https://github.com/ozkostay/node-http-1#readme"
+}
